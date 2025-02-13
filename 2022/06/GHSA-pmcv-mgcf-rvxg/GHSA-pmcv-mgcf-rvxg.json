@@ -23,14 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"crypto2::streamcipher::Chacha20::decrypt_slice",
-					"crypto2::streamcipher::Chacha20::encrypt_slice",
-					"crypto2::streamcipher::xor_si512_inplace"
-				]
-			}
+			]
 		}
 	],
 	"references": [

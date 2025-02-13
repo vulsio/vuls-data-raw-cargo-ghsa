@@ -23,18 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"rusqlite::Connection::commit_hook",
-					"rusqlite::Connection::create_aggregate_function",
-					"rusqlite::Connection::create_collation",
-					"rusqlite::Connection::create_scalar_function",
-					"rusqlite::Connection::create_window_function",
-					"rusqlite::Connection::rollback_hook",
-					"rusqlite::Connection::update_hook"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -53,18 +42,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"rusqlite::Connection::commit_hook",
-					"rusqlite::Connection::create_aggregate_function",
-					"rusqlite::Connection::create_collation",
-					"rusqlite::Connection::create_scalar_function",
-					"rusqlite::Connection::create_window_function",
-					"rusqlite::Connection::rollback_hook",
-					"rusqlite::Connection::update_hook"
-				]
-			}
+			]
 		}
 	],
 	"references": [

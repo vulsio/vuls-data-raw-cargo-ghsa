@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"scratchpad::SliceMoveSource::move_elements"
-				]
-			}
+			]
 		}
 	],
 	"references": [

@@ -23,13 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"neon::types::JsArrayBuffer::external",
-					"neon::types::JsBuffer::external"
-				]
-			}
+			]
 		}
 	],
 	"references": [

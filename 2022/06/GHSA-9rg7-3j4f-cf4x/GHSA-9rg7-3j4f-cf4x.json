@@ -23,12 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"derive_com_impl::derive_com_impl"
-				]
-			}
+			]
 		}
 	],
 	"references": [

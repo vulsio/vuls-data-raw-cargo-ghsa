@@ -23,12 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"libp2p_core::PeerRecord::from_signed_envelope"
-				]
-			}
+			]
 		}
 	],
 	"references": [

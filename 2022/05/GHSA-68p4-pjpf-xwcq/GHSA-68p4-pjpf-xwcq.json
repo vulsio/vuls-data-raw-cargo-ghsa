@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"qwutils::imp::vec::VecExt::insert_slice_clone"
-				]
-			}
+			]
 		}
 	],
 	"references": [

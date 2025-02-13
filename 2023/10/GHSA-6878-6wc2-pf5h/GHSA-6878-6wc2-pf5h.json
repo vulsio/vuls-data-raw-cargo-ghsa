@@ -29,17 +29,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"cocoon::Cocoon::dump",
-					"cocoon::Cocoon::encrypt",
-					"cocoon::Cocoon::wrap",
-					"cocoon::MiniCocoon::dump",
-					"cocoon::MiniCocoon::encrypt",
-					"cocoon::MiniCocoon::wrap"
-				]
-			}
+			]
 		}
 	],
 	"references": [

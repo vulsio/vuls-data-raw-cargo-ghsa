@@ -23,13 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"lru::LruCache::iter",
-					"lru::LruCache::iter_mut"
-				]
-			}
+			]
 		}
 	],
 	"references": [

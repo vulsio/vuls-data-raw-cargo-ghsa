@@ -23,12 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"nix::unistd::getgrouplist"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -47,12 +42,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"nix::unistd::getgrouplist"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -71,12 +61,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"nix::unistd::getgrouplist"
-				]
-			}
+			]
 		}
 	],
 	"references": [

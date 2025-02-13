@@ -26,12 +26,7 @@
 			],
 			"versions": [
 				"0.2.0"
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"tower_http::services::fs::ServeDir"
-				]
-			}
+			]
 		},
 		{
 			"package": {
@@ -50,12 +45,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"tower_http::services::fs::ServeDir"
-				]
-			}
+			]
 		}
 	],
 	"references": [
