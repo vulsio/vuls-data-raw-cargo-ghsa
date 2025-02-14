@@ -23,12 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"svix::webhooks::Webhook::verify"
-				]
-			}
+			]
 		}
 	],
 	"references": [
