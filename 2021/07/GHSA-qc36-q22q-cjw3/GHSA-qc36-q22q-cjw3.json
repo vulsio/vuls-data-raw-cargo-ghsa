@@ -32,14 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"lettre::smtp::SmtpTransport::send",
-					"lettre::transport::smtp::SmtpTransport::send",
-					"lettre::transport::smtp::SmtpTransport::send_raw"
-				]
-			}
+			]
 		}
 	],
 	"references": [

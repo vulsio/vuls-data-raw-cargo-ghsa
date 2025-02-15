@@ -32,12 +32,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"xcb::xproto::GetAtomNameReply::name"
-				]
-			}
+			]
 		}
 	],
 	"references": [
