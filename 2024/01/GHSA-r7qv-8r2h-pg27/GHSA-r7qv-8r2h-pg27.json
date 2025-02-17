@@ -23,15 +23,7 @@
 						}
 					]
 				}
-			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"shlex::bytes::join",
-					"shlex::bytes::quote",
-					"shlex::join",
-					"shlex::quote"
-				]
-			}
+			]
 		}
 	],
 	"references": [
